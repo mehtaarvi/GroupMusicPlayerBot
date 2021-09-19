@@ -13,5 +13,5 @@ async def chat_member_updated(_, chat_member_updated: ChatMemberUpdated):
         if new.user.id not in cache.admins[chat]:
             cache.admins[chat].append(new.user.id)
     else:
-        if new.user.id in cache.admins[-1001450354297]:
-            cache.admins[-1001450354297].remove(new.user.id)
+        if new.user.id in cache.admins[chat]:
+            cache.admins[chat].remove(new.user.id)
