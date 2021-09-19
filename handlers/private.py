@@ -9,27 +9,27 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgQAAx0CTv65QgABBfJlYF6VCrGMm6OJ23AxHmD6qUSWESsAAhoQAAKm8XEeD5nrjz5IJFYeBA")
     await message.reply_text(
-        f"""**Hey, I'm {bn} 🎵
+        f"""**HELLO, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [Jason](https://t.me/ImJanindu).
+I CAN PLAY MUSIC IN YOUR GROUP'S VC. OWNER OF THIS BOT [𝐐𝐔𝐄𝐄𝐍](https://t.me/forever_angel_0).
 
-Add me to your group and play music freely!**
+LO AB PADH LIYA HO TO GROUP M CHLE ?😁.MERE KO ADD KRO OR GAANE SUNO. !**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/Infinity-Bots/GroupMusicPlayerBot")
+                        "🎸𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞🎸", url="https://github.com/mehtaarvi/GroupMusicPlayerBot")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/InfinityBOTs_Support"
-                    ),
-                    InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Infinity_BOTs"
+                        "🎀𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🎀", url="https://t.me/ABOUT_ARVI"
+                    ),]
+                   [ InlineKeyboardButton(
+                        "🤿𝐂𝐡𝐚𝐥𝐨 𝐌𝐞𝐫𝐞 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞🪔.", url="https://t.me/WORLD_WIDE_CHAT"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "➕𝐀𝐝𝐝 𝐊𝐚𝐫𝐥𝐨 𝐌𝐞𝐫𝐞𝐤𝐨 𝐆𝐫𝐨𝐮𝐩 𝐦𝐞➕", url="https://t.me/arvi_music_bot?startgroup=true"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Infinity_BOTs")
+                        "🎀𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🎀", url="https://t.me/ABOUT_ARVI")
                 ]
             ]
         )
