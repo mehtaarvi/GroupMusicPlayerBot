@@ -25,7 +25,7 @@ LO AB PADH LIYA HO TO GROUP M CHLE ?😁.MERE KO ADD KRO OR GAANE SUNO. !**
                         "🎀𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🎀", url="https://t.me/ABOUT_ARVI"
                     ),
                     InlineKeyboardButton(
-                        "🤿𝐂𝐡𝐚𝐥𝐨 𝐌𝐞𝐫𝐞 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞🪔.", url="https://t.me/WORLD_WIDE_CHAT"
+                        "𝐂𝐡𝐚𝐥𝐨 𝐌𝐞𝐫𝐞 𝐆𝐫𝐨𝐮𝐩 𝐌𝐞🪔.", url="https://t.me/WORLD_WIDE_CHATTT"
                     )
                 ],[ 
                     InlineKeyboardButton(
