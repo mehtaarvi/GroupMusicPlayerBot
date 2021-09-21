@@ -29,7 +29,7 @@ LO AB PADH LIYA HO TO GROUP M CHLE ?😁.MERE KO ADD KRO OR GAANE SUNO. !**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕𝐀𝐝𝐝 𝐊𝐚𝐫𝐥𝐨 𝐌𝐞𝐫𝐞𝐤𝐨 𝐆𝐫𝐨𝐮𝐩 𝐦𝐞➕", url="https://t.me/arvi_music_bot?startgroup=true"
+                        "➕𝐀𝐝𝐝 𝐊𝐚𝐫𝐥𝐨 𝐌𝐞𝐫𝐞𝐤𝐨 𝐆𝐫𝐨𝐮𝐩 𝐦𝐞➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
                     )]
             ]
         ),
